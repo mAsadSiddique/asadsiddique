@@ -74,44 +74,6 @@ MERN Stack Developer with **5+ years of experience** building scalable web appli
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mAsadSiddique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C47FF&icon_color=6C47FF&text_color=C9D1D9"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mAsadSiddique&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C47FF&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mAsadSiddique&theme=tokyonight&hide_border=true&background=0D1117&ring=6C47FF&fire=6C47FF&currStreakLabel=6C47FF&sideLabels=6C47FF)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mAsadSiddique&theme=tokyonight&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Asad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mAsadSiddique&bg_color=0D1117&color=6C47FF&line=6C47FF&point=ffffff&area=true&area_color=6C47FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
