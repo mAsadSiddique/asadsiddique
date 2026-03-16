@@ -1,3 +1,5 @@
+# Hi there 👋
+
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C47FF&height=220&section=header&text=Asad%20Siddique&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Lahore%2C%20Pakistan&descAlignY=58&descAlign=50&descColor=D4C8FF" width="100%"/>
 
@@ -35,7 +37,8 @@ MERN Stack Developer with **5+ years of experience** building scalable web appli
 </td>
 <td valign="top" width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="Developer GIF" width="280"/>
+<!-- ✅ UPDATED GIF -->
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer GIF" width="280"/>
 
 </td>
 </tr>
