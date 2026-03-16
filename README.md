@@ -16,28 +16,30 @@
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-```typescript
-const asad: Developer = {
-  name:       "Asad Siddique",
-  role:       "MERN Stack Developer",
-  location:   "Lahore, Pakistan 🇵🇰",
-  experience: "5+ Years",
-  github:     "github.com/mAsadSiddique",
-  contact:    "asadsiddique.a@gmail.com",
+<table>
+<tr>
+<td valign="top" width="60%">
 
-  stack: {
-    frontend:        ["React.js", "Next.js", "TypeScript", "JavaScript ES6+"],
-    backend:         ["NestJS", "Node.js", "RESTful APIs", "GraphQL"],
-    stateManagement: ["Redux", "React Query"],
-    styling:         ["Tailwind CSS", "Material-UI", "Styled-Components"],
-  },
+MERN Stack Developer with **5+ years of experience** building scalable web applications and SaaS products. I transform innovative ideas into high-performance, production-ready solutions.
 
-  currentlyLearning: "System Design & Microservices Architecture",
-  funFact:           "I debug with console.log and I'm not ashamed 😄",
-};
-```
+- 🔭 Currently working on **Scalable MERN & NestJS Applications**
+- 🌱 Learning **System Design & Microservices Architecture**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Next.js, Node.js, GraphQL & NestJS**
+- 📫 Reach me at **[asadsiddique.a@gmail.com](mailto:asadsiddique.a@gmail.com)**
+- 📍 Based in **Lahore, Pakistan 🇵🇰**
+- ⚡ Fun fact: **I debug with console.log and I'm not ashamed 😄**
+
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="Developer GIF" width="280"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
